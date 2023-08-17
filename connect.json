@@ -1,0 +1,9 @@
+{
+  "account"   : "nq94943.ap-south-1.aws",
+  "user"      : "ckulkarni",
+  "password"  : "Reyna@1254",
+  "role"      : "ACC_PROGRAM_MONIT",
+  "warehouse" : "DEV_ML_Q_S_VW",
+  "database"  : "UTIL_DB",
+  "schema"    : "SF_METRICS"
+}
