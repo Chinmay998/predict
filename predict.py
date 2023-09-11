@@ -78,6 +78,7 @@
 
 import streamlit as st
 import pandas as pd
+from snowflake.snowpark.session import Session
 import json
 import logging
 from snowflake.connector import connect, snowflake
