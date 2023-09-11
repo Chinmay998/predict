@@ -88,7 +88,7 @@ logger.setLevel(logging.ERROR)
 connection_parameters = json.load(open('connect.json'))
 session = Session.builder.configs(connection_parameters).create()
 session.sql_simplifier_enabled = Tru
-Create a Streamlit app
+#Create a Streamlit app
 st.title('Credit Consumption Prediction')
 
 # Function to fetch credit consumption data
